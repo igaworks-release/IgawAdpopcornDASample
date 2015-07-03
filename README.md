@@ -14,3 +14,12 @@
 1. Open Android Studio
 1. VCS > Checkout from Version Control > Git
 1. Paste to Vcs Repository URL, Clone
+
+# Adpopcorn Offerwall DA Sample 실행
+1. IGAW 홈페이지에서 발급받은 **앱키, 해시키**를 AndroidManifest.xml 파일에 입력
+1. IGAW 홈페이지에서 발급받은 **스팟키**를 MainActivity.java 파일에 입력
+1. 수익화 > adPOPcorn Display AD > Display AD 관리 메뉴로 이동 (_아래 설정을 모두 진행해야 테스트 광고 노출_)
+  * 진단 및 정책확인
+    - 테스트 기기 설정 > 테스트 디바이스 등록 후 설정
+    - 테스트 광고 송출 > ON
+1. 실행
