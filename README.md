@@ -15,7 +15,7 @@
 1. VCS > Checkout from Version Control > Git
 1. Paste to Vcs Repository URL, Clone
 
-# Adpopcorn Offerwall DA Sample 실행
+# Adpopcorn DA Sample 실행
 1. IGAW 홈페이지에서 발급받은 **앱키, 해시키**를 AndroidManifest.xml 파일에 입력
 1. IGAW 홈페이지에서 발급받은 **스팟키**를 MainActivity.java 파일에 입력
 1. 수익화 > adPOPcorn Display AD > Display AD 관리 메뉴로 이동 (_아래 설정을 모두 진행해야 테스트 광고 노출_)
@@ -23,3 +23,7 @@
     - 테스트 기기 설정 > 테스트 디바이스 등록 후 설정
     - 테스트 광고 송출 > ON
 1. 실행
+
+# Igaworks Adpopcorn DA 연동하기
+연동 가이드와 샘플 프로젝트를 참고하여 연동을 진행합니다. </br>
+<a href="http://help.igaworks.com/hc/ko/3_3/Content/Article/adpopcorn_offerwall_aos" target="_blank">Igaworks Adpopcorn Offerwall 연동문서 바로가기</a>
